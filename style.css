@@ -127,7 +127,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/hero-img4.jpg");
+  background-image: url("hero-img4.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
